@@ -1,1 +1,2 @@
 # IoT-Based-Gas-Leakage-Detection
+An IoT-enabled safety system designed to detect harmful gas leaks (LPG, methane, propane) using an MQ-2 gas sensor. The system uses an ESP32 microcontroller for processing and Wi-Fi communication. When gas levels exceed safe limits, it activates a buzzer for local alerts and displays readings on an LCD screen. Simultaneously, it sends real-time alerts and data to users via ThingSpeak IoT platform, allowing remote monitoring and ensuring timely action to prevent accidents.
